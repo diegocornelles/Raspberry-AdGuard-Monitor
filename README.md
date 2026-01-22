@@ -4,7 +4,7 @@
 
 Este proyecto despliega un stack completo de monitorización y bloqueo de publicidad. No solo limpia el tráfico de tu red (PCs, móviles, Smart TV) eliminando anuncios y rastreadores, sino que te ofrece un panel de control profesional para visualizar todo lo que ocurre en tu casa en tiempo real.
 
-![Vista Previa del Dashboard](images/dashboard-preview.png)
+![Vista Previa del Dashboard](images/dashboard.png)
 
 ## 📋 ¿Qué consigue este proyecto?
 
